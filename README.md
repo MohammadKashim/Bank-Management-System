@@ -59,7 +59,7 @@
 ### 🔗 Clone the Repository
 
 ```bash
-    git clone https://github.com/manishrnl/Bank_Management_System.git
+    git clone https://github.com/MohammadKashim/Bank-Management-System.git
     cd Bank_Management_System
 
 ```
